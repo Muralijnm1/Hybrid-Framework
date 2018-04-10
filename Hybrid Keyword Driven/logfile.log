@@ -1,0 +1,1383 @@
+2017-05-16 18:59:44,569 INFO  [Log] **************************************************************************************** 
+2017-05-16 18:59:44,571 INFO  [Log] **************************************************************************************** 
+2017-05-16 18:59:44,571 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-16 18:59:44,571 INFO  [Log] **************************************************************************************** 
+2017-05-16 18:59:44,571 INFO  [Log] **************************************************************************************** 
+2017-05-16 18:59:44,575 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-05-16 18:59:44,577 INFO  [Log] Opening Browser 
+2017-05-16 18:59:55,794 INFO  [Log] Mozilla browser started 
+2017-05-16 18:59:56,345 INFO  [Log] Navigating to URL 
+2017-05-16 19:00:27,934 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2017-05-16 19:00:28,497 INFO  [Log] Entering the text in txtbx_UserName 
+2017-05-16 19:00:31,391 INFO  [Log] Entering the text in txtbx_Password 
+2017-05-16 19:00:33,262 INFO  [Log] Clicking on Webelement btn_LogIn 
+2017-05-16 19:00:34,276 INFO  [Log] Wait for 5 seconds 
+2017-05-16 19:00:39,729 INFO  [Log] Clicking on Webelement btn_LogOut 
+2017-05-16 19:00:49,853 ERROR [Log] Not able to click --- Unable to locate element: .//*[@id='account_logout']/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-PC', ip: '192.168.43.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\user\AppData\Local\Temp\rust_mozprofile.o47Gnq5oDBWt, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.2, platformVersion=6.1, moz:processID=5360.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 125318ba-7ded-4e13-8883-0fc3cc8c31cf
+*** Element info: {Using=xpath, value=.//*[@id='account_logout']/a} 
+2017-05-16 19:00:50,220 INFO  [Log] Closing the browser 
+2017-05-16 19:00:51,543 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-05-16 19:00:51,543 INFO  [Log] X 
+2017-05-16 19:00:51,543 INFO  [Log] X 
+2017-05-16 19:00:51,544 INFO  [Log] X 
+2017-05-16 19:00:51,544 INFO  [Log] X 
+2017-05-16 19:02:04,554 INFO  [Log] **************************************************************************************** 
+2017-05-16 19:02:04,555 INFO  [Log] **************************************************************************************** 
+2017-05-16 19:02:04,555 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-16 19:02:04,555 INFO  [Log] **************************************************************************************** 
+2017-05-16 19:02:04,555 INFO  [Log] **************************************************************************************** 
+2017-05-16 19:02:04,558 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-05-16 19:02:04,562 INFO  [Log] Opening Browser 
+2017-05-16 19:02:15,761 INFO  [Log] Mozilla browser started 
+2017-05-16 19:02:16,568 INFO  [Log] Navigating to URL 
+2017-05-16 19:03:48,996 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2017-05-16 19:03:49,610 INFO  [Log] Entering the text in txtbx_UserName 
+2017-05-16 19:03:59,731 INFO  [Log] Entering the text in txtbx_Password 
+2017-05-16 19:04:01,737 INFO  [Log] Clicking on Webelement btn_LogIn 
+2017-05-16 19:04:02,452 INFO  [Log] Wait for 5 seconds 
+2017-05-16 19:04:12,889 INFO  [Log] Clicking on Webelement btn_LogOut 
+2017-05-16 19:04:23,026 ERROR [Log] Not able to click --- Unable to locate element: .//*[@id='account_logout']/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-PC', ip: '192.168.43.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\user\AppData\Local\Temp\rust_mozprofile.83oz9OaLBh0C, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.2, platformVersion=6.1, moz:processID=7004.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 4233c91b-05e6-42b2-b639-34533469781e
+*** Element info: {Using=xpath, value=.//*[@id='account_logout']/a} 
+2017-05-16 19:04:23,196 INFO  [Log] Closing the browser 
+2017-05-16 19:04:24,788 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-05-16 19:04:24,790 INFO  [Log] X 
+2017-05-16 19:04:24,790 INFO  [Log] X 
+2017-05-16 19:04:24,791 INFO  [Log] X 
+2017-05-16 19:04:24,791 INFO  [Log] X 
+2017-05-16 19:10:14,899 INFO  [Log] **************************************************************************************** 
+2017-05-16 19:10:14,900 INFO  [Log] **************************************************************************************** 
+2017-05-16 19:10:14,901 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-16 19:10:14,901 INFO  [Log] **************************************************************************************** 
+2017-05-16 19:10:14,901 INFO  [Log] **************************************************************************************** 
+2017-05-16 19:10:14,904 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-05-16 19:10:14,907 INFO  [Log] Opening Browser 
+2017-05-16 19:10:20,522 INFO  [Log] **************************************************************************************** 
+2017-05-16 19:10:20,523 INFO  [Log] **************************************************************************************** 
+2017-05-16 19:10:20,523 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-16 19:10:20,523 INFO  [Log] **************************************************************************************** 
+2017-05-16 19:10:20,523 INFO  [Log] **************************************************************************************** 
+2017-05-16 19:10:20,526 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-05-16 19:10:20,529 INFO  [Log] Opening Browser 
+2017-05-16 19:10:28,405 INFO  [Log] Mozilla browser started 
+2017-05-16 19:10:29,189 INFO  [Log] Navigating to URL 
+2017-05-16 19:10:34,649 INFO  [Log] Mozilla browser started 
+2017-05-16 19:10:35,515 INFO  [Log] Navigating to URL 
+2017-05-16 19:12:41,933 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2017-05-16 19:12:42,751 INFO  [Log] Entering the text in txtbx_UserName 
+2017-05-16 19:12:47,419 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2017-05-16 19:12:48,424 INFO  [Log] Entering the text in txtbx_UserName 
+2017-05-16 19:12:52,901 ERROR [Log] Not able to Enter UserName --- Unable to locate element: .//*[@id='log']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-PC', ip: '192.168.43.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\user\AppData\Local\Temp\rust_mozprofile.514NrkFdzQ8I, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.2, platformVersion=6.1, moz:processID=6068.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 06b68702-6240-4aed-bd19-6a66e5016687
+*** Element info: {Using=xpath, value=.//*[@id='log']} 
+2017-05-16 19:12:53,514 INFO  [Log] Closing the browser 
+2017-05-16 19:12:55,168 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-05-16 19:12:55,168 INFO  [Log] X 
+2017-05-16 19:12:55,168 INFO  [Log] X 
+2017-05-16 19:12:55,168 INFO  [Log] X 
+2017-05-16 19:12:55,168 INFO  [Log] X 
+2017-05-16 19:12:58,496 ERROR [Log] Not able to Enter UserName --- Unable to locate element: .//*[@id='log']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-PC', ip: '192.168.43.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\user\AppData\Local\Temp\rust_mozprofile.LzNyixW4j04F, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.2, platformVersion=6.1, moz:processID=6384.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 9ba72b19-1ecf-40af-9d15-11351aa5ad84
+*** Element info: {Using=xpath, value=.//*[@id='log']} 
+2017-05-16 19:12:59,103 INFO  [Log] Closing the browser 
+2017-05-16 19:13:00,508 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-05-16 19:13:00,508 INFO  [Log] X 
+2017-05-16 19:13:00,509 INFO  [Log] X 
+2017-05-16 19:13:00,509 INFO  [Log] X 
+2017-05-16 19:13:00,509 INFO  [Log] X 
+2017-05-16 19:15:16,846 INFO  [Log] **************************************************************************************** 
+2017-05-16 19:15:16,848 INFO  [Log] **************************************************************************************** 
+2017-05-16 19:15:16,848 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-16 19:15:16,848 INFO  [Log] **************************************************************************************** 
+2017-05-16 19:15:16,848 INFO  [Log] **************************************************************************************** 
+2017-05-16 19:15:16,851 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-05-16 19:15:16,854 INFO  [Log] Opening Browser 
+2017-05-16 19:15:29,889 INFO  [Log] Mozilla browser started 
+2017-05-16 19:15:30,722 INFO  [Log] Navigating to URL 
+2017-05-16 19:15:38,593 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2017-05-16 19:15:48,194 ERROR [Log] Not able to click --- Failed to decode response from marionette
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-PC', ip: '192.168.43.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\user\AppData\Local\Temp\rust_mozprofile.eamaWF1YfR5p, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.2, platformVersion=6.1, moz:processID=6916.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 599d535f-df9e-4112-8308-ad270ed5d806
+*** Element info: {Using=xpath, value=.//*[@id='account']/a} 
+2017-05-16 19:15:48,493 INFO  [Log] Closing the browser 
+2017-05-16 19:15:49,234 ERROR [Log] Not able to Close the Browser --- Tried to run command without establishing a connection
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-PC', ip: '192.168.43.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\user\AppData\Local\Temp\rust_mozprofile.eamaWF1YfR5p, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.2, platformVersion=6.1, moz:processID=6916.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 599d535f-df9e-4112-8308-ad270ed5d806 
+2017-05-16 19:15:49,597 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-05-16 19:15:49,597 INFO  [Log] X 
+2017-05-16 19:15:49,597 INFO  [Log] X 
+2017-05-16 19:15:49,597 INFO  [Log] X 
+2017-05-16 19:15:49,597 INFO  [Log] X 
+2017-05-16 19:16:23,275 INFO  [Log] **************************************************************************************** 
+2017-05-16 19:16:23,277 INFO  [Log] **************************************************************************************** 
+2017-05-16 19:16:23,277 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-16 19:16:23,277 INFO  [Log] **************************************************************************************** 
+2017-05-16 19:16:23,277 INFO  [Log] **************************************************************************************** 
+2017-05-16 19:16:23,282 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-05-16 19:16:23,286 INFO  [Log] Opening Browser 
+2017-05-16 19:16:34,708 INFO  [Log] Mozilla browser started 
+2017-05-16 19:16:35,427 INFO  [Log] Navigating to URL 
+2017-05-16 19:17:06,048 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2017-05-16 19:17:16,389 ERROR [Log] Not able to click --- Unable to locate element: .//*[@id='account']/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-PC', ip: '192.168.43.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\user\AppData\Local\Temp\rust_mozprofile.SkJZMSeGgkuB, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.2, platformVersion=6.1, moz:processID=1048.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: c29c5419-2f01-4b2e-8419-e799588e763e
+*** Element info: {Using=xpath, value=.//*[@id='account']/a} 
+2017-05-16 19:17:16,652 INFO  [Log] Closing the browser 
+2017-05-16 19:17:17,625 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-05-16 19:17:17,625 INFO  [Log] X 
+2017-05-16 19:17:17,625 INFO  [Log] X 
+2017-05-16 19:17:17,625 INFO  [Log] X 
+2017-05-16 19:17:17,625 INFO  [Log] X 
+2017-05-16 19:18:26,917 INFO  [Log] **************************************************************************************** 
+2017-05-16 19:18:26,918 INFO  [Log] **************************************************************************************** 
+2017-05-16 19:18:26,918 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-16 19:18:26,919 INFO  [Log] **************************************************************************************** 
+2017-05-16 19:18:26,919 INFO  [Log] **************************************************************************************** 
+2017-05-16 19:18:26,923 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-05-16 19:18:26,926 INFO  [Log] Opening Browser 
+2017-05-16 19:18:37,660 INFO  [Log] Mozilla browser started 
+2017-05-16 19:18:38,313 INFO  [Log] Navigating to URL 
+2017-05-16 19:20:15,175 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2017-05-16 19:20:15,784 INFO  [Log] Entering the text in txtbx_UserName 
+2017-05-16 19:20:22,456 INFO  [Log] Entering the text in txtbx_Password 
+2017-05-16 19:20:23,760 INFO  [Log] Clicking on Webelement btn_LogIn 
+2017-05-16 19:20:24,472 INFO  [Log] Wait for 50 seconds 
+2017-05-16 19:22:04,802 INFO  [Log] Clicking on Webelement btn_LogOut 
+2017-05-16 19:22:14,870 ERROR [Log] Not able to click --- Unable to locate element: .//*[@id='account_logout']/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-PC', ip: '192.168.43.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\user\AppData\Local\Temp\rust_mozprofile.mEqttBrkpUKk, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.2, platformVersion=6.1, moz:processID=5824.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 6742808a-e758-4033-acc5-0c3b5265b352
+*** Element info: {Using=xpath, value=.//*[@id='account_logout']/a} 
+2017-05-16 19:22:15,217 INFO  [Log] Closing the browser 
+2017-05-16 19:22:16,847 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-05-16 19:22:16,847 INFO  [Log] X 
+2017-05-16 19:22:16,847 INFO  [Log] X 
+2017-05-16 19:22:16,847 INFO  [Log] X 
+2017-05-16 19:22:16,848 INFO  [Log] X 
+2017-05-16 19:35:53,613 INFO  [Log] **************************************************************************************** 
+2017-05-16 19:35:53,613 INFO  [Log] **************************************************************************************** 
+2017-05-16 19:35:53,613 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-16 19:35:53,613 INFO  [Log] **************************************************************************************** 
+2017-05-16 19:35:53,613 INFO  [Log] **************************************************************************************** 
+2017-05-16 19:35:53,613 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-05-16 19:35:53,613 INFO  [Log] Opening Browser 
+2017-05-16 19:36:04,407 INFO  [Log] Mozilla browser started 
+2017-05-16 19:36:05,237 INFO  [Log] Navigating to URL 
+2017-05-16 19:40:58,281 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2017-05-16 19:40:59,005 INFO  [Log] Entering the text in txtbx_UserName 
+2017-05-16 19:41:06,453 INFO  [Log] Entering the text in txtbx_Password 
+2017-05-16 19:41:07,077 INFO  [Log] Clicking on Webelement btn_LogIn 
+2017-05-16 19:41:08,127 INFO  [Log] Wait for 50 seconds 
+2017-05-16 19:41:13,473 INFO  [Log] Clicking on Webelement btn_LogOut 
+2017-05-16 19:41:25,050 INFO  [Log] Closing the browser 
+2017-05-16 19:41:26,424 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-05-16 19:41:26,424 INFO  [Log] X 
+2017-05-16 19:41:26,424 INFO  [Log] X 
+2017-05-16 19:41:26,424 INFO  [Log] X 
+2017-05-16 19:41:26,424 INFO  [Log] X 
+2017-05-16 19:46:13,792 INFO  [Log] **************************************************************************************** 
+2017-05-16 19:46:13,792 INFO  [Log] **************************************************************************************** 
+2017-05-16 19:46:13,792 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-16 19:46:13,792 INFO  [Log] **************************************************************************************** 
+2017-05-16 19:46:13,792 INFO  [Log] **************************************************************************************** 
+2017-05-16 19:46:13,792 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-05-16 19:46:13,792 INFO  [Log] Opening Browser 
+2017-05-16 19:46:24,708 INFO  [Log] Mozilla browser started 
+2017-05-16 19:46:25,325 INFO  [Log] Navigating to URL 
+2017-05-16 19:48:45,472 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2017-05-16 19:48:46,205 INFO  [Log] Entering the text in txtbx_UserName 
+2017-05-16 19:48:56,014 INFO  [Log] Entering the text in txtbx_Password 
+2017-05-16 19:48:57,496 INFO  [Log] Clicking on Webelement btn_LogIn 
+2017-05-16 19:48:58,214 INFO  [Log] Wait for 50 seconds 
+2017-05-16 19:49:03,513 INFO  [Log] Clicking on Webelement btn_LogOut 
+2017-05-16 19:49:13,585 ERROR [Log] Not able to click --- Unable to locate element: .//*[@id='account_logout']/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-PC', ip: '192.168.43.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\user\AppData\Local\Temp\rust_mozprofile.mpn6HgZl1XI4, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.2, platformVersion=6.1, moz:processID=4208.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 08cdd9a7-d75d-4422-8669-dca821d2c857
+*** Element info: {Using=xpath, value=.//*[@id='account_logout']/a} 
+2017-05-16 19:49:13,959 INFO  [Log] Closing the browser 
+2017-05-16 19:49:15,630 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-05-16 19:49:15,630 INFO  [Log] X 
+2017-05-16 19:49:15,630 INFO  [Log] X 
+2017-05-16 19:49:15,630 INFO  [Log] X 
+2017-05-16 19:49:15,630 INFO  [Log] X 
+2017-05-16 19:51:34,002 INFO  [Log] **************************************************************************************** 
+2017-05-16 19:51:34,002 INFO  [Log] **************************************************************************************** 
+2017-05-16 19:51:34,002 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-16 19:51:34,002 INFO  [Log] **************************************************************************************** 
+2017-05-16 19:51:34,002 INFO  [Log] **************************************************************************************** 
+2017-05-16 19:51:34,002 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-05-16 19:51:34,002 INFO  [Log] Opening Browser 
+2017-05-16 19:51:56,011 INFO  [Log] Not able to open the Browser --- Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-PC', ip: '192.168.43.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: driver.version: InternetExplorerDriver 
+2017-05-16 19:51:56,588 INFO  [Log] Closing the browser 
+2017-05-16 19:51:56,588 ERROR [Log] Not able to Close the Browser --- null 
+2017-05-16 19:51:56,884 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-05-16 19:51:56,884 INFO  [Log] X 
+2017-05-16 19:51:56,884 INFO  [Log] X 
+2017-05-16 19:51:56,884 INFO  [Log] X 
+2017-05-16 19:51:56,884 INFO  [Log] X 
+2017-05-16 19:58:46,410 INFO  [Log] **************************************************************************************** 
+2017-05-16 19:58:46,410 INFO  [Log] **************************************************************************************** 
+2017-05-16 19:58:46,410 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-16 19:58:46,410 INFO  [Log] **************************************************************************************** 
+2017-05-16 19:58:46,410 INFO  [Log] **************************************************************************************** 
+2017-05-16 19:58:46,410 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-05-16 19:58:46,410 INFO  [Log] Opening Browser 
+2017-05-16 19:59:07,996 INFO  [Log] Not able to open the Browser --- Timed out waiting for driver server to start.
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-PC', ip: '192.168.43.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: driver.version: ChromeDriver 
+2017-05-16 19:59:08,767 INFO  [Log] Closing the browser 
+2017-05-16 19:59:08,798 ERROR [Log] Not able to Close the Browser --- null 
+2017-05-16 19:59:09,034 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-05-16 19:59:09,034 INFO  [Log] X 
+2017-05-16 19:59:09,034 INFO  [Log] X 
+2017-05-16 19:59:09,034 INFO  [Log] X 
+2017-05-16 19:59:09,034 INFO  [Log] X 
+2017-05-16 20:06:16,729 INFO  [Log] **************************************************************************************** 
+2017-05-16 20:06:16,731 INFO  [Log] **************************************************************************************** 
+2017-05-16 20:06:16,731 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-16 20:06:16,731 INFO  [Log] **************************************************************************************** 
+2017-05-16 20:06:16,731 INFO  [Log] **************************************************************************************** 
+2017-05-16 20:06:16,737 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-05-16 20:06:16,740 INFO  [Log] Opening Browser 
+2017-05-16 20:06:38,919 INFO  [Log] Not able to open the Browser --- Timed out waiting for driver server to start.
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-PC', ip: '192.168.43.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: driver.version: ChromeDriver 
+2017-05-16 20:06:39,469 INFO  [Log] Closing the browser 
+2017-05-16 20:06:39,469 ERROR [Log] Not able to Close the Browser --- null 
+2017-05-16 20:06:39,724 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-05-16 20:06:39,724 INFO  [Log] X 
+2017-05-16 20:06:39,724 INFO  [Log] X 
+2017-05-16 20:06:39,724 INFO  [Log] X 
+2017-05-16 20:06:39,724 INFO  [Log] X 
+2017-05-16 20:08:47,852 INFO  [Log] **************************************************************************************** 
+2017-05-16 20:08:47,853 INFO  [Log] **************************************************************************************** 
+2017-05-16 20:08:47,853 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-16 20:08:47,854 INFO  [Log] **************************************************************************************** 
+2017-05-16 20:08:47,854 INFO  [Log] **************************************************************************************** 
+2017-05-16 20:08:47,858 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-05-16 20:08:47,862 INFO  [Log] Opening Browser 
+2017-05-16 20:09:10,000 INFO  [Log] Not able to open the Browser --- Timed out waiting for driver server to start.
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-PC', ip: '192.168.43.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: driver.version: ChromeDriver 
+2017-05-16 20:09:10,664 INFO  [Log] Closing the browser 
+2017-05-16 20:09:10,664 ERROR [Log] Not able to Close the Browser --- null 
+2017-05-16 20:09:10,932 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-05-16 20:09:10,932 INFO  [Log] X 
+2017-05-16 20:09:10,932 INFO  [Log] X 
+2017-05-16 20:09:10,932 INFO  [Log] X 
+2017-05-16 20:09:10,932 INFO  [Log] X 
+2017-05-16 20:16:12,756 INFO  [Log] **************************************************************************************** 
+2017-05-16 20:16:12,756 INFO  [Log] **************************************************************************************** 
+2017-05-16 20:16:12,756 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-16 20:16:12,756 INFO  [Log] **************************************************************************************** 
+2017-05-16 20:16:12,756 INFO  [Log] **************************************************************************************** 
+2017-05-16 20:16:12,756 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-05-16 20:16:12,771 INFO  [Log] Opening Browser 
+2017-05-16 20:16:34,642 INFO  [Log] Not able to open the Browser --- Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-PC', ip: '192.168.43.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: driver.version: ChromeDriver 
+2017-05-16 20:16:35,271 INFO  [Log] Closing the browser 
+2017-05-16 20:16:35,271 ERROR [Log] Not able to Close the Browser --- null 
+2017-05-16 20:16:35,545 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-05-16 20:16:35,545 INFO  [Log] X 
+2017-05-16 20:16:35,545 INFO  [Log] X 
+2017-05-16 20:16:35,545 INFO  [Log] X 
+2017-05-16 20:16:35,545 INFO  [Log] X 
+2017-05-16 20:37:37,371 INFO  [Log] **************************************************************************************** 
+2017-05-16 20:37:37,402 INFO  [Log] **************************************************************************************** 
+2017-05-16 20:37:37,402 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-16 20:37:37,402 INFO  [Log] **************************************************************************************** 
+2017-05-16 20:37:37,402 INFO  [Log] **************************************************************************************** 
+2017-05-16 20:37:37,402 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-05-16 20:37:37,417 INFO  [Log] Opening Browser 
+2017-05-16 20:37:58,946 INFO  [Log] Not able to open the Browser --- Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-PC', ip: '192.168.43.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: driver.version: ChromeDriver 
+2017-05-16 20:38:00,270 INFO  [Log] Closing the browser 
+2017-05-16 20:38:00,270 ERROR [Log] Not able to Close the Browser --- null 
+2017-05-16 20:38:00,746 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-05-16 20:38:00,746 INFO  [Log] X 
+2017-05-16 20:38:00,746 INFO  [Log] X 
+2017-05-16 20:38:00,746 INFO  [Log] X 
+2017-05-16 20:38:00,746 INFO  [Log] X 
+2017-05-16 20:44:16,886 INFO  [Log] **************************************************************************************** 
+2017-05-16 20:44:16,886 INFO  [Log] **************************************************************************************** 
+2017-05-16 20:44:16,886 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-16 20:44:16,886 INFO  [Log] **************************************************************************************** 
+2017-05-16 20:44:16,886 INFO  [Log] **************************************************************************************** 
+2017-05-16 20:44:16,886 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-05-16 20:44:16,886 INFO  [Log] Opening Browser 
+2017-05-16 20:44:38,517 INFO  [Log] Not able to open the Browser --- Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-PC', ip: '192.168.43.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: driver.version: ChromeDriver 
+2017-05-16 20:44:39,336 INFO  [Log] Closing the browser 
+2017-05-16 20:44:39,337 ERROR [Log] Not able to Close the Browser --- null 
+2017-05-16 20:44:39,618 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-05-16 20:44:39,618 INFO  [Log] X 
+2017-05-16 20:44:39,619 INFO  [Log] X 
+2017-05-16 20:44:39,619 INFO  [Log] X 
+2017-05-16 20:44:39,619 INFO  [Log] X 
+2017-05-16 22:03:03,708 INFO  [Log] **************************************************************************************** 
+2017-05-16 22:03:03,708 INFO  [Log] **************************************************************************************** 
+2017-05-16 22:03:03,708 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-16 22:03:03,708 INFO  [Log] **************************************************************************************** 
+2017-05-16 22:03:03,708 INFO  [Log] **************************************************************************************** 
+2017-05-16 22:03:03,708 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-05-16 22:03:03,708 INFO  [Log] Opening Browser 
+2017-05-16 22:03:25,359 INFO  [Log] Not able to open the Browser --- Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-PC', ip: '192.168.43.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: driver.version: ChromeDriver 
+2017-05-16 22:03:26,254 INFO  [Log] Closing the browser 
+2017-05-16 22:03:26,255 ERROR [Log] Not able to Close the Browser --- null 
+2017-05-16 22:03:26,695 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-05-16 22:03:26,695 INFO  [Log] X 
+2017-05-16 22:03:26,696 INFO  [Log] X 
+2017-05-16 22:03:26,697 INFO  [Log] X 
+2017-05-16 22:03:26,697 INFO  [Log] X 
+2017-05-16 22:13:35,781 INFO  [Log] **************************************************************************************** 
+2017-05-16 22:13:35,781 INFO  [Log] **************************************************************************************** 
+2017-05-16 22:13:35,781 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-16 22:13:35,781 INFO  [Log] **************************************************************************************** 
+2017-05-16 22:13:35,781 INFO  [Log] **************************************************************************************** 
+2017-05-16 22:13:35,781 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-05-16 22:13:35,781 INFO  [Log] Opening Browser 
+2017-05-16 22:13:57,634 INFO  [Log] Not able to open the Browser --- Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-PC', ip: '192.168.43.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: driver.version: ChromeDriver 
+2017-05-16 22:13:58,271 INFO  [Log] Closing the browser 
+2017-05-16 22:13:58,271 ERROR [Log] Not able to Close the Browser --- null 
+2017-05-16 22:13:58,508 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-05-16 22:13:58,508 INFO  [Log] X 
+2017-05-16 22:13:58,509 INFO  [Log] X 
+2017-05-16 22:13:58,509 INFO  [Log] X 
+2017-05-16 22:13:58,509 INFO  [Log] X 
+2017-05-16 22:14:29,514 INFO  [Log] **************************************************************************************** 
+2017-05-16 22:14:29,514 INFO  [Log] **************************************************************************************** 
+2017-05-16 22:14:29,514 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-16 22:14:29,514 INFO  [Log] **************************************************************************************** 
+2017-05-16 22:14:29,514 INFO  [Log] **************************************************************************************** 
+2017-05-16 22:14:29,514 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-05-16 22:14:29,514 INFO  [Log] Opening Browser 
+2017-05-16 22:14:51,350 INFO  [Log] Not able to open the Browser --- Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-PC', ip: '192.168.43.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: driver.version: ChromeDriver 
+2017-05-16 22:14:51,948 INFO  [Log] Closing the browser 
+2017-05-16 22:14:51,948 ERROR [Log] Not able to Close the Browser --- null 
+2017-05-16 22:14:52,197 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-05-16 22:14:52,197 INFO  [Log] X 
+2017-05-16 22:14:52,197 INFO  [Log] X 
+2017-05-16 22:14:52,197 INFO  [Log] X 
+2017-05-16 22:14:52,197 INFO  [Log] X 
+2017-05-16 22:18:33,074 INFO  [Log] **************************************************************************************** 
+2017-05-16 22:18:33,075 INFO  [Log] **************************************************************************************** 
+2017-05-16 22:18:33,076 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-16 22:18:33,076 INFO  [Log] **************************************************************************************** 
+2017-05-16 22:18:33,076 INFO  [Log] **************************************************************************************** 
+2017-05-16 22:18:33,080 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-05-16 22:18:33,082 INFO  [Log] Opening Browser 
+2017-05-16 22:18:55,090 INFO  [Log] Not able to open the Browser --- Timed out waiting for driver server to start.
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-PC', ip: '192.168.43.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: driver.version: ChromeDriver 
+2017-05-16 22:18:55,720 INFO  [Log] Closing the browser 
+2017-05-16 22:18:55,720 ERROR [Log] Not able to Close the Browser --- null 
+2017-05-16 22:18:55,991 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-05-16 22:18:55,991 INFO  [Log] X 
+2017-05-16 22:18:55,992 INFO  [Log] X 
+2017-05-16 22:18:55,992 INFO  [Log] X 
+2017-05-16 22:18:55,992 INFO  [Log] X 
+2017-05-16 22:30:17,840 INFO  [Log] **************************************************************************************** 
+2017-05-16 22:30:17,841 INFO  [Log] **************************************************************************************** 
+2017-05-16 22:30:17,841 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-16 22:30:17,841 INFO  [Log] **************************************************************************************** 
+2017-05-16 22:30:17,841 INFO  [Log] **************************************************************************************** 
+2017-05-16 22:30:17,845 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-05-16 22:30:17,847 INFO  [Log] Opening Browser 
+2017-05-16 22:30:17,950 INFO  [Log] Not able to open the Browser --- The driver executable does not exist: C:\Users\user\Downloads\chromedriver_win32\chromedriver.exe.exe 
+2017-05-16 22:30:18,352 INFO  [Log] Closing the browser 
+2017-05-16 22:30:18,352 ERROR [Log] Not able to Close the Browser --- null 
+2017-05-16 22:30:18,557 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-05-16 22:30:18,557 INFO  [Log] X 
+2017-05-16 22:30:18,557 INFO  [Log] X 
+2017-05-16 22:30:18,557 INFO  [Log] X 
+2017-05-16 22:30:18,557 INFO  [Log] X 
+2017-05-16 22:30:33,778 INFO  [Log] **************************************************************************************** 
+2017-05-16 22:30:33,779 INFO  [Log] **************************************************************************************** 
+2017-05-16 22:30:33,779 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-16 22:30:33,779 INFO  [Log] **************************************************************************************** 
+2017-05-16 22:30:33,779 INFO  [Log] **************************************************************************************** 
+2017-05-16 22:30:33,782 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-05-16 22:30:33,785 INFO  [Log] Opening Browser 
+2017-05-16 22:30:39,641 INFO  [Log] Chrome browser started 
+2017-05-16 22:30:40,259 INFO  [Log] Navigating to URL 
+2017-05-16 22:30:56,919 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2017-05-16 22:31:01,027 INFO  [Log] Entering the text in txtbx_UserName 
+2017-05-16 22:31:01,527 INFO  [Log] Entering the text in txtbx_Password 
+2017-05-16 22:31:02,066 INFO  [Log] Clicking on Webelement btn_LogIn 
+2017-05-16 22:31:02,544 INFO  [Log] Wait for 50 seconds 
+2017-05-16 22:31:07,876 INFO  [Log] Clicking on Webelement btn_LogOut 
+2017-05-16 22:31:14,881 INFO  [Log] Closing the browser 
+2017-05-16 22:31:17,133 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-05-16 22:31:17,134 INFO  [Log] X 
+2017-05-16 22:31:17,134 INFO  [Log] X 
+2017-05-16 22:31:17,134 INFO  [Log] X 
+2017-05-16 22:31:17,134 INFO  [Log] X 
+2017-05-16 22:33:49,244 INFO  [Log] **************************************************************************************** 
+2017-05-16 22:33:49,245 INFO  [Log] **************************************************************************************** 
+2017-05-16 22:33:49,245 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-16 22:33:49,246 INFO  [Log] **************************************************************************************** 
+2017-05-16 22:33:49,246 INFO  [Log] **************************************************************************************** 
+2017-05-16 22:33:49,250 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-05-16 22:33:49,254 INFO  [Log] Opening Browser 
+2017-05-16 22:33:54,335 INFO  [Log] Chrome browser started 
+2017-05-16 22:33:54,955 INFO  [Log] Navigating to URL 
+2017-05-16 22:34:19,477 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2017-05-16 22:34:26,211 INFO  [Log] Entering the text in txtbx_UserName 
+2017-05-16 22:34:26,805 INFO  [Log] Entering the text in txtbx_Password 
+2017-05-16 22:34:27,278 INFO  [Log] Clicking on Webelement btn_LogIn 
+2017-05-16 22:34:27,732 INFO  [Log] Wait for 50 seconds 
+2017-05-16 22:34:32,942 INFO  [Log] Clicking on Webelement btn_LogOut 
+2017-05-16 22:34:35,718 INFO  [Log] Closing the browser 
+2017-05-16 22:34:37,830 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-05-16 22:34:37,830 INFO  [Log] X 
+2017-05-16 22:34:37,830 INFO  [Log] X 
+2017-05-16 22:34:37,830 INFO  [Log] X 
+2017-05-16 22:34:37,830 INFO  [Log] X 
+2017-05-16 22:41:30,885 INFO  [Log] **************************************************************************************** 
+2017-05-16 22:41:30,885 INFO  [Log] **************************************************************************************** 
+2017-05-16 22:41:30,885 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-16 22:41:30,885 INFO  [Log] **************************************************************************************** 
+2017-05-16 22:41:30,885 INFO  [Log] **************************************************************************************** 
+2017-05-16 22:41:30,885 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-05-16 22:41:30,885 INFO  [Log] Opening Browser 
+2017-05-16 22:41:43,161 INFO  [Log] Mozilla browser started 
+2017-05-16 22:41:44,166 INFO  [Log] Navigating to URL 
+2017-05-16 22:42:05,049 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2017-05-16 22:42:05,735 INFO  [Log] Entering the text in txtbx_UserName 
+2017-05-16 22:42:08,421 INFO  [Log] Entering the text in txtbx_Password 
+2017-05-16 22:42:10,043 INFO  [Log] Clicking on Webelement btn_LogIn 
+2017-05-16 22:42:10,714 INFO  [Log] Wait for 50 seconds 
+2017-05-16 22:42:15,987 INFO  [Log] Clicking on Webelement btn_LogOut 
+2017-05-16 22:42:26,091 ERROR [Log] Not able to click --- Unable to locate element: .//*[@id='account_logout']/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-PC', ip: '192.168.43.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\user\AppData\Local\Temp\rust_mozprofile.Nt8d8vwBCd4c, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.2, platformVersion=6.1, moz:processID=1528.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 1986844a-0c1c-47b7-9afe-bfb14015facd
+*** Element info: {Using=xpath, value=.//*[@id='account_logout']/a} 
+2017-05-16 22:42:26,248 INFO  [Log] Closing the browser 
+2017-05-16 22:42:27,599 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-05-16 22:42:27,599 INFO  [Log] X 
+2017-05-16 22:42:27,599 INFO  [Log] X 
+2017-05-16 22:42:27,599 INFO  [Log] X 
+2017-05-16 22:42:27,599 INFO  [Log] X 
+2017-05-17 05:44:19,365 INFO  [Log] **************************************************************************************** 
+2017-05-17 05:44:19,367 INFO  [Log] **************************************************************************************** 
+2017-05-17 05:44:19,367 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-17 05:44:19,368 INFO  [Log] **************************************************************************************** 
+2017-05-17 05:44:19,368 INFO  [Log] **************************************************************************************** 
+2017-05-17 05:44:19,372 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-05-17 05:44:19,375 INFO  [Log] Opening Browser 
+2017-05-17 05:44:31,311 INFO  [Log] Mozilla browser started 
+2017-05-17 05:44:32,006 INFO  [Log] Navigating to URL 
+2017-05-17 05:44:42,036 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2017-05-17 05:44:42,816 INFO  [Log] Entering the text in txtbx_UserName 
+2017-05-17 05:44:45,641 INFO  [Log] Entering the text in txtbx_Password 
+2017-05-17 05:44:47,179 INFO  [Log] Clicking on Webelement btn_LogIn 
+2017-05-17 05:44:47,954 INFO  [Log] Wait for 50 seconds 
+2017-05-17 05:44:53,477 INFO  [Log] Clicking on Webelement btn_LogOut 
+2017-05-17 05:45:03,637 ERROR [Log] Not able to click --- Unable to locate element: .//*[@id='account_logout']/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-PC', ip: '192.168.43.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\user\AppData\Local\Temp\rust_mozprofile.jUt4sNEGb0hT, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.2, platformVersion=6.1, moz:processID=2116.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 847f217b-8157-4bd5-9781-7de5989ec525
+*** Element info: {Using=xpath, value=.//*[@id='account_logout']/a} 
+2017-05-17 05:45:03,822 INFO  [Log] Closing the browser 
+2017-05-17 05:45:05,226 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-05-17 05:45:05,226 INFO  [Log] X 
+2017-05-17 05:45:05,226 INFO  [Log] X 
+2017-05-17 05:45:05,227 INFO  [Log] X 
+2017-05-17 05:45:05,227 INFO  [Log] X 
+2017-09-10 14:52:01,230 INFO  [Log] **************************************************************************************** 
+2017-09-10 14:52:01,239 INFO  [Log] **************************************************************************************** 
+2017-09-10 14:52:01,240 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-10 14:52:01,240 INFO  [Log] **************************************************************************************** 
+2017-09-10 14:52:01,240 INFO  [Log] **************************************************************************************** 
+2017-09-10 14:52:01,242 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-09-10 14:52:01,245 INFO  [Log] Opening Browser 
+2017-09-10 14:52:19,336 INFO  [Log] Mozilla browser started 
+2017-09-10 14:52:20,760 INFO  [Log] Navigating to URL 
+2017-09-10 14:55:08,795 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2017-09-10 14:55:09,635 INFO  [Log] Entering the text in txtbx_UserName 
+2017-09-10 14:55:11,948 INFO  [Log] Entering the text in txtbx_Password 
+2017-09-10 14:55:12,295 INFO  [Log] Clicking on Webelement btn_LogIn 
+2017-09-10 14:55:14,881 INFO  [Log] Wait for 50 seconds 
+2017-09-10 14:55:20,054 INFO  [Log] Clicking on Webelement btn_LogOut 
+2017-09-10 14:55:30,286 ERROR [Log] Not able to click --- Unable to locate element: .//*[@id='account_logout']/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-PC', ip: '192.168.43.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\user\AppData\Local\Temp\rust_mozprofile.Hi3u9f1vwM0E, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.2, platformVersion=6.1, moz:processID=244000.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 1ec9adcf-f508-4201-b405-5d656b3d3e47
+*** Element info: {Using=xpath, value=.//*[@id='account_logout']/a} 
+2017-09-10 14:55:30,453 INFO  [Log] Closing the browser 
+2017-09-10 14:55:31,686 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-10 14:55:31,687 INFO  [Log] X 
+2017-09-10 14:55:31,687 INFO  [Log] X 
+2017-09-10 14:55:31,687 INFO  [Log] X 
+2017-09-10 14:55:31,687 INFO  [Log] X 
+2017-09-10 21:38:20,330 INFO  [Log] **************************************************************************************** 
+2017-09-10 21:38:20,340 INFO  [Log] **************************************************************************************** 
+2017-09-10 21:38:20,340 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-10 21:38:20,340 INFO  [Log] **************************************************************************************** 
+2017-09-10 21:38:20,341 INFO  [Log] **************************************************************************************** 
+2017-09-10 21:38:20,345 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-09-10 21:38:20,348 INFO  [Log] Opening Browser 
+2017-09-10 21:38:29,457 INFO  [Log] Mozilla browser started 
+2017-09-10 21:38:30,040 INFO  [Log] Navigating to URL 
+2017-09-10 21:41:08,874 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2017-09-10 21:41:09,456 INFO  [Log] Entering the text in txtbx_UserName 
+2017-09-10 21:41:12,203 INFO  [Log] Entering the text in txtbx_Password 
+2017-09-10 21:41:14,691 INFO  [Log] Clicking on Webelement btn_LogIn 
+2017-09-10 21:41:15,506 INFO  [Log] Wait for 50 seconds 
+2017-09-10 21:41:20,700 INFO  [Log] Clicking on Webelement btn_LogOut 
+2017-09-10 21:41:30,824 ERROR [Log] Not able to click --- Unable to locate element: .//*[@id='account_logout']/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-PC', ip: '192.168.43.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\user\AppData\Local\Temp\rust_mozprofile.3YWLpz0m1hw0, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.2, platformVersion=6.1, moz:processID=278768.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: fa31c0d4-a2e9-4b00-85fe-936a2c789dd0
+*** Element info: {Using=xpath, value=.//*[@id='account_logout']/a} 
+2017-09-10 21:41:30,902 INFO  [Log] Closing the browser 
+2017-09-10 21:41:31,830 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-10 21:41:31,830 INFO  [Log] X 
+2017-09-10 21:41:31,830 INFO  [Log] X 
+2017-09-10 21:41:31,830 INFO  [Log] X 
+2017-09-10 21:41:31,830 INFO  [Log] X 
+2017-09-10 21:43:33,856 INFO  [Log] **************************************************************************************** 
+2017-09-10 21:43:33,857 INFO  [Log] **************************************************************************************** 
+2017-09-10 21:43:33,858 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-10 21:43:33,858 INFO  [Log] **************************************************************************************** 
+2017-09-10 21:43:33,858 INFO  [Log] **************************************************************************************** 
+2017-09-10 21:43:33,861 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-09-10 21:43:33,863 INFO  [Log] Opening Browser 
+2017-09-10 21:43:42,596 INFO  [Log] Mozilla browser started 
+2017-09-10 21:43:42,993 INFO  [Log] Navigating to URL 
+2017-09-10 21:45:10,837 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2017-09-10 21:45:11,247 INFO  [Log] Entering the text in txtbx_UserName 
+2017-09-10 21:45:13,170 INFO  [Log] Entering the text in txtbx_Password 
+2017-09-10 21:45:14,879 INFO  [Log] Clicking on Webelement btn_LogIn 
+2017-09-10 21:45:15,561 INFO  [Log] Wait for 50 seconds 
+2017-09-10 21:45:20,848 INFO  [Log] Clicking on Webelement btn_LogOut 
+2017-09-10 21:45:30,951 ERROR [Log] Not able to click --- Unable to locate element: .//*[@id='account_logout']/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-PC', ip: '192.168.43.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\user\AppData\Local\Temp\rust_mozprofile.tC1jZbYS0w5b, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.2, platformVersion=6.1, moz:processID=281136.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 3b6045d7-4cb6-4703-9d75-17177f9d96e8
+*** Element info: {Using=xpath, value=.//*[@id='account_logout']/a} 
+2017-09-10 21:45:31,196 INFO  [Log] Closing the browser 
+2017-09-10 21:45:32,290 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-10 21:45:32,291 INFO  [Log] X 
+2017-09-10 21:45:32,291 INFO  [Log] X 
+2017-09-10 21:45:32,291 INFO  [Log] X 
+2017-09-10 21:45:32,291 INFO  [Log] X 
+2017-09-12 08:03:56,245 INFO  [Log] **************************************************************************************** 
+2017-09-12 08:03:56,265 INFO  [Log] **************************************************************************************** 
+2017-09-12 08:03:56,265 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-12 08:03:56,265 INFO  [Log] **************************************************************************************** 
+2017-09-12 08:03:56,266 INFO  [Log] **************************************************************************************** 
+2017-09-12 08:03:56,270 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-09-12 08:03:56,273 INFO  [Log] Opening Browser 
+2017-09-12 08:04:10,162 INFO  [Log] Mozilla browser started 
+2017-09-12 08:04:11,119 INFO  [Log] Navigating to URL 
+2017-09-12 08:04:25,839 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2017-09-12 08:04:26,337 INFO  [Log] Entering the text in txtbx_UserName 
+2017-09-12 08:04:29,486 INFO  [Log] Entering the text in txtbx_Password 
+2017-09-12 08:04:30,788 INFO  [Log] Clicking on Webelement btn_LogIn 
+2017-09-12 08:04:31,863 INFO  [Log] Wait for 50 seconds 
+2017-09-12 08:04:37,029 INFO  [Log] Clicking on Webelement btn_LogOut 
+2017-09-12 08:04:47,401 ERROR [Log] Not able to click --- Unable to locate element: .//*[@id='account_logout']/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-PC', ip: '192.168.43.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\user\AppData\Local\Temp\rust_mozprofile.TF7d23Ie6AAg, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.2, platformVersion=6.1, moz:processID=340040.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: e186ff82-8f22-4059-92f6-7c0ce7519ed8
+*** Element info: {Using=xpath, value=.//*[@id='account_logout']/a} 
+2017-09-12 08:04:47,532 INFO  [Log] Closing the browser 
+2017-09-12 08:04:48,708 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-12 08:04:48,708 INFO  [Log] X 
+2017-09-12 08:04:48,708 INFO  [Log] X 
+2017-09-12 08:04:48,708 INFO  [Log] X 
+2017-09-12 08:04:48,708 INFO  [Log] X 
+2017-09-12 08:05:12,470 INFO  [Log] **************************************************************************************** 
+2017-09-12 08:05:12,471 INFO  [Log] **************************************************************************************** 
+2017-09-12 08:05:12,471 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-12 08:05:12,471 INFO  [Log] **************************************************************************************** 
+2017-09-12 08:05:12,471 INFO  [Log] **************************************************************************************** 
+2017-09-12 08:05:12,475 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-09-12 08:05:12,477 INFO  [Log] Opening Browser 
+2017-09-12 08:05:22,350 INFO  [Log] Mozilla browser started 
+2017-09-12 08:05:22,849 INFO  [Log] Navigating to URL 
+2017-09-12 08:05:40,392 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2017-09-12 08:05:41,044 INFO  [Log] Entering the text in txtbx_UserName 
+2017-09-12 08:05:43,276 INFO  [Log] Entering the text in txtbx_Password 
+2017-09-12 08:05:44,377 INFO  [Log] Clicking on Webelement btn_LogIn 
+2017-09-12 08:05:44,915 INFO  [Log] Wait for 50 seconds 
+2017-09-12 08:05:50,410 INFO  [Log] Clicking on Webelement btn_LogOut 
+2017-09-12 08:06:00,858 ERROR [Log] Not able to click --- Unable to locate element: .//*[@id='account_logout']/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-PC', ip: '192.168.43.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\user\AppData\Local\Temp\rust_mozprofile.4iXfBBFyxMIv, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.2, platformVersion=6.1, moz:processID=340444.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 61499be6-942b-400d-a81b-fad65977fdf1
+*** Element info: {Using=xpath, value=.//*[@id='account_logout']/a} 
+2017-09-12 08:06:01,157 INFO  [Log] Closing the browser 
+2017-09-12 08:06:02,689 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-12 08:06:02,689 INFO  [Log] X 
+2017-09-12 08:06:02,689 INFO  [Log] X 
+2017-09-12 08:06:02,689 INFO  [Log] X 
+2017-09-12 08:06:02,689 INFO  [Log] X 
+2017-09-16 07:07:40,140 INFO  [Log] **************************************************************************************** 
+2017-09-16 07:07:40,140 INFO  [Log] **************************************************************************************** 
+2017-09-16 07:07:40,140 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-16 07:07:40,140 INFO  [Log] **************************************************************************************** 
+2017-09-16 07:07:40,140 INFO  [Log] **************************************************************************************** 
+2017-09-16 07:07:40,156 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-09-16 07:07:40,156 INFO  [Log] Opening Browser 
+2017-09-16 07:07:51,268 INFO  [Log] Mozilla browser started 
+2017-09-16 07:07:51,876 INFO  [Log] Navigating to URL 
+2017-09-16 07:08:00,193 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2017-09-16 07:08:00,977 INFO  [Log] Entering the text in txtbx_UserName 
+2017-09-16 07:08:03,168 INFO  [Log] Entering the text in txtbx_Password 
+2017-09-16 07:08:04,198 INFO  [Log] Clicking on Webelement btn_LogIn 
+2017-09-16 07:08:04,806 INFO  [Log] Wait for 50 seconds 
+2017-09-16 07:08:10,204 INFO  [Log] Clicking on Webelement btn_LogOut 
+2017-09-16 07:08:20,266 ERROR [Log] Not able to click --- Unable to locate element: .//*[@id='account_logout']/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-PC', ip: '192.168.43.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\user\AppData\Local\Temp\rust_mozprofile.c2TNigCo4VdB, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.2, platformVersion=6.1, moz:processID=347712.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 6eb12de1-56cb-4dfa-8761-cb60dc0587b0
+*** Element info: {Using=xpath, value=.//*[@id='account_logout']/a} 
+2017-09-16 07:08:20,547 INFO  [Log] Closing the browser 
+2017-09-16 07:08:21,333 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-16 07:08:21,333 INFO  [Log] X 
+2017-09-16 07:08:21,333 INFO  [Log] X 
+2017-09-16 07:08:21,333 INFO  [Log] X 
+2017-09-16 07:08:21,333 INFO  [Log] X 
+2017-09-16 07:10:33,968 INFO  [Log] **************************************************************************************** 
+2017-09-16 07:10:33,968 INFO  [Log] **************************************************************************************** 
+2017-09-16 07:10:33,968 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-16 07:10:33,968 INFO  [Log] **************************************************************************************** 
+2017-09-16 07:10:33,968 INFO  [Log] **************************************************************************************** 
+2017-09-16 07:10:33,968 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-09-16 07:10:33,984 INFO  [Log] Opening Browser 
+2017-09-16 07:10:44,419 INFO  [Log] Mozilla browser started 
+2017-09-16 07:10:45,253 INFO  [Log] Navigating to URL 
+2017-09-16 07:10:54,251 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2017-09-16 07:10:55,072 INFO  [Log] Entering the text in txtbx_UserName 
+2017-09-16 07:10:58,036 INFO  [Log] Entering the text in txtbx_Password 
+2017-09-16 07:10:59,206 INFO  [Log] Clicking on Webelement btn_LogIn 
+2017-09-16 07:10:59,939 INFO  [Log] Wait for 50 seconds 
+2017-09-16 07:11:05,511 INFO  [Log] Clicking on Webelement btn_LogOut 
+2017-09-16 07:11:15,592 ERROR [Log] Not able to click --- Unable to locate element: .//*[@id='account_logout']/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-PC', ip: '192.168.43.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\user\AppData\Local\Temp\rust_mozprofile.YB5ugfRcZhW6, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.2, platformVersion=6.1, moz:processID=349008.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: c55b87cb-b4cc-4194-82f5-daf41ff4b623
+*** Element info: {Using=xpath, value=.//*[@id='account_logout']/a} 
+2017-09-16 07:11:15,854 INFO  [Log] Closing the browser 
+2017-09-16 07:11:16,707 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-16 07:11:16,707 INFO  [Log] X 
+2017-09-16 07:11:16,707 INFO  [Log] X 
+2017-09-16 07:11:16,707 INFO  [Log] X 
+2017-09-16 07:11:16,707 INFO  [Log] X 
+2017-09-16 07:51:41,698 INFO  [Log] **************************************************************************************** 
+2017-09-16 07:51:41,698 INFO  [Log] **************************************************************************************** 
+2017-09-16 07:51:41,698 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-16 07:51:41,698 INFO  [Log] **************************************************************************************** 
+2017-09-16 07:51:41,698 INFO  [Log] **************************************************************************************** 
+2017-09-16 07:51:41,698 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-09-16 07:52:26,252 INFO  [Log] Opening Browser 
+2017-09-16 07:52:37,801 INFO  [Log] Mozilla browser started 
+2017-09-16 07:52:59,548 INFO  [Log] Navigating to URL 
+2017-09-16 07:53:28,891 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2017-09-16 07:53:30,950 INFO  [Log] Entering the text in txtbx_UserName 
+2017-09-16 07:53:34,320 INFO  [Log] Entering the text in txtbx_Password 
+2017-09-16 07:53:50,902 INFO  [Log] Clicking on Webelement btn_LogIn 
+2017-09-16 07:54:00,668 INFO  [Log] Wait for 50 seconds 
+2017-09-16 07:54:18,748 INFO  [Log] Clicking on Webelement btn_LogOut 
+2017-09-16 07:54:23,163 INFO  [Log] Closing the browser 
+2017-09-16 07:54:24,131 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-16 07:54:24,131 INFO  [Log] X 
+2017-09-16 07:54:24,131 INFO  [Log] X 
+2017-09-16 07:54:24,131 INFO  [Log] X 
+2017-09-16 07:54:24,131 INFO  [Log] X 
+2017-09-16 07:57:21,544 INFO  [Log] **************************************************************************************** 
+2017-09-16 07:57:21,544 INFO  [Log] **************************************************************************************** 
+2017-09-16 07:57:21,544 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-16 07:57:21,544 INFO  [Log] **************************************************************************************** 
+2017-09-16 07:57:21,544 INFO  [Log] **************************************************************************************** 
+2017-09-16 07:57:21,544 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-09-16 07:57:21,544 INFO  [Log] Opening Browser 
+2017-09-16 07:57:32,297 INFO  [Log] Mozilla browser started 
+2017-09-16 07:57:33,249 INFO  [Log] Navigating to URL 
+2017-09-16 07:57:44,919 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2017-09-16 07:57:45,325 INFO  [Log] Entering the text in txtbx_UserName 
+2017-09-16 07:57:47,384 INFO  [Log] Entering the text in txtbx_Password 
+2017-09-16 07:57:48,569 INFO  [Log] Clicking on Webelement btn_LogIn 
+2017-09-16 07:57:48,944 INFO  [Log] Wait for 50 seconds 
+2017-09-16 07:57:54,444 INFO  [Log] Clicking on Webelement btn_LogOut 
+2017-09-16 07:58:04,534 ERROR [Log] Not able to click --- Unable to locate element: .//*[@id='account_logout']/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-PC', ip: '192.168.43.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\user\AppData\Local\Temp\rust_mozprofile.OhVeELrx6SQD, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.2, platformVersion=6.1, moz:processID=366576.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: df6738ea-5463-45b0-883f-2460cf95d4f9
+*** Element info: {Using=xpath, value=.//*[@id='account_logout']/a} 
+2017-09-16 07:58:04,838 INFO  [Log] Closing the browser 
+2017-09-16 07:58:05,904 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-16 07:58:05,904 INFO  [Log] X 
+2017-09-16 07:58:05,904 INFO  [Log] X 
+2017-09-16 07:58:05,904 INFO  [Log] X 
+2017-09-16 07:58:05,904 INFO  [Log] X 
+2017-09-16 07:58:57,874 INFO  [Log] **************************************************************************************** 
+2017-09-16 07:58:57,874 INFO  [Log] **************************************************************************************** 
+2017-09-16 07:58:57,874 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-16 07:58:57,874 INFO  [Log] **************************************************************************************** 
+2017-09-16 07:58:57,874 INFO  [Log] **************************************************************************************** 
+2017-09-16 07:58:57,890 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-09-16 07:58:57,890 INFO  [Log] Opening Browser 
+2017-09-16 07:59:06,742 INFO  [Log] Mozilla browser started 
+2017-09-16 07:59:07,121 INFO  [Log] Navigating to URL 
+2017-09-16 07:59:21,907 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2017-09-16 07:59:22,390 INFO  [Log] Entering the text in txtbx_UserName 
+2017-09-16 07:59:24,559 INFO  [Log] Entering the text in txtbx_Password 
+2017-09-16 07:59:25,900 INFO  [Log] Clicking on Webelement btn_LogIn 
+2017-09-16 07:59:26,774 INFO  [Log] Wait for 50 seconds 
+2017-09-16 07:59:32,109 INFO  [Log] Clicking on Webelement btn_LogOut 
+2017-09-16 07:59:42,355 ERROR [Log] Not able to click --- Unable to locate element: .//*[@id='account_logout']/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-PC', ip: '192.168.43.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\user\AppData\Local\Temp\rust_mozprofile.IcrigmyxiaqP, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.2, platformVersion=6.1, moz:processID=366328.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 3714b4b9-60e4-436c-9665-eadb36a1cc0f
+*** Element info: {Using=xpath, value=.//*[@id='account_logout']/a} 
+2017-09-16 07:59:42,571 INFO  [Log] Closing the browser 
+2017-09-16 07:59:43,452 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-16 07:59:43,452 INFO  [Log] X 
+2017-09-16 07:59:43,452 INFO  [Log] X 
+2017-09-16 07:59:43,452 INFO  [Log] X 
+2017-09-16 07:59:43,452 INFO  [Log] X 
+2017-09-16 08:00:08,003 INFO  [Log] **************************************************************************************** 
+2017-09-16 08:00:08,003 INFO  [Log] **************************************************************************************** 
+2017-09-16 08:00:08,003 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-16 08:00:08,003 INFO  [Log] **************************************************************************************** 
+2017-09-16 08:00:08,003 INFO  [Log] **************************************************************************************** 
+2017-09-16 08:00:08,018 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-09-16 08:00:08,018 INFO  [Log] Opening Browser 
+2017-09-16 08:00:17,167 INFO  [Log] Mozilla browser started 
+2017-09-16 08:00:17,917 INFO  [Log] Navigating to URL 
+2017-09-16 08:00:26,685 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2017-09-16 08:00:27,122 INFO  [Log] Entering the text in txtbx_UserName 
+2017-09-16 08:00:28,994 INFO  [Log] Entering the text in txtbx_Password 
+2017-09-16 08:00:29,431 INFO  [Log] Clicking on Webelement btn_LogIn 
+2017-09-16 08:00:30,850 INFO  [Log] Wait for 50 seconds 
+2017-09-16 08:00:36,139 INFO  [Log] Clicking on Webelement btn_LogOut 
+2017-09-16 08:00:36,497 INFO  [Log] Closing the browser 
+2017-09-16 08:00:37,762 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-16 08:00:37,762 INFO  [Log] X 
+2017-09-16 08:00:37,762 INFO  [Log] X 
+2017-09-16 08:00:37,762 INFO  [Log] X 
+2017-09-16 08:00:37,762 INFO  [Log] X 
+2017-09-16 08:00:48,717 INFO  [Log] **************************************************************************************** 
+2017-09-16 08:00:48,717 INFO  [Log] **************************************************************************************** 
+2017-09-16 08:00:48,717 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-09-16 08:00:48,717 INFO  [Log] **************************************************************************************** 
+2017-09-16 08:00:48,717 INFO  [Log] **************************************************************************************** 
+2017-09-16 08:00:48,717 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-09-16 08:00:48,717 INFO  [Log] Opening Browser 
+2017-09-16 08:00:56,397 INFO  [Log] Mozilla browser started 
+2017-09-16 08:00:56,710 INFO  [Log] Navigating to URL 
+2017-09-16 08:01:04,800 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2017-09-16 08:01:05,591 INFO  [Log] Entering the text in txtbx_UserName 
+2017-09-16 08:01:07,848 INFO  [Log] Entering the text in txtbx_Password 
+2017-09-16 08:01:09,150 INFO  [Log] Clicking on Webelement btn_LogIn 
+2017-09-16 08:01:09,587 INFO  [Log] Wait for 50 seconds 
+2017-09-16 08:01:14,828 INFO  [Log] Clicking on Webelement btn_LogOut 
+2017-09-16 08:01:24,313 INFO  [Log] Closing the browser 
+2017-09-16 08:01:25,500 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-09-16 08:01:25,500 INFO  [Log] X 
+2017-09-16 08:01:25,500 INFO  [Log] X 
+2017-09-16 08:01:25,500 INFO  [Log] X 
+2017-09-16 08:01:25,500 INFO  [Log] X 
+2017-10-05 08:17:45,657 INFO  [Log] **************************************************************************************** 
+2017-10-05 08:17:45,745 INFO  [Log] **************************************************************************************** 
+2017-10-05 08:17:45,745 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-05 08:17:45,745 INFO  [Log] **************************************************************************************** 
+2017-10-05 08:17:45,745 INFO  [Log] **************************************************************************************** 
+2017-10-05 08:17:45,749 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-10-05 08:17:45,752 INFO  [Log] Opening Browser 
+2017-10-05 08:18:10,782 INFO  [Log] Mozilla browser started 
+2017-10-05 08:18:11,398 INFO  [Log] Navigating to URL 
+2017-10-05 08:18:33,547 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2017-10-05 08:18:34,698 INFO  [Log] Entering the text in txtbx_UserName 
+2017-10-05 08:18:37,881 INFO  [Log] Entering the text in txtbx_Password 
+2017-10-05 08:18:39,414 INFO  [Log] Clicking on Webelement btn_LogIn 
+2017-10-05 08:18:40,575 INFO  [Log] Wait for 50 seconds 
+2017-10-05 08:18:45,762 INFO  [Log] Clicking on Webelement btn_LogOut 
+2017-10-05 08:18:56,040 ERROR [Log] Not able to click --- Unable to locate element: .//*[@id='account_logout']/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-PC', ip: '192.168.43.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\user\AppData\Local\Temp\rust_mozprofile.1FAUOMPfZlpx, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.2, platformVersion=6.1, moz:processID=701548.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: be44145f-940b-4575-a401-f4320c82faee
+*** Element info: {Using=xpath, value=.//*[@id='account_logout']/a} 
+2017-10-05 08:18:56,374 INFO  [Log] Closing the browser 
+2017-10-05 08:18:59,143 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-05 08:18:59,143 INFO  [Log] X 
+2017-10-05 08:18:59,144 INFO  [Log] X 
+2017-10-05 08:18:59,144 INFO  [Log] X 
+2017-10-05 08:18:59,144 INFO  [Log] X 
+2017-10-05 08:34:49,933 INFO  [Log] **************************************************************************************** 
+2017-10-05 08:34:49,940 INFO  [Log] **************************************************************************************** 
+2017-10-05 08:34:49,940 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-05 08:34:49,940 INFO  [Log] **************************************************************************************** 
+2017-10-05 08:34:49,940 INFO  [Log] **************************************************************************************** 
+2017-10-05 08:34:49,943 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-10-05 08:34:49,946 INFO  [Log] Opening Browser 
+2017-10-05 08:35:14,575 INFO  [Log] Mozilla browser started 
+2017-10-05 08:35:15,630 INFO  [Log] Navigating to URL 
+2017-10-05 08:35:28,544 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2017-10-05 08:35:29,448 INFO  [Log] Entering the text in txtbx_UserName 
+2017-10-05 08:35:33,305 INFO  [Log] Entering the text in txtbx_Password 
+2017-10-05 08:35:35,630 INFO  [Log] Clicking on Webelement btn_LogIn 
+2017-10-05 08:35:36,697 INFO  [Log] Wait for 50 seconds 
+2017-10-05 08:35:41,873 INFO  [Log] Clicking on Webelement btn_LogOut 
+2017-10-05 08:35:52,285 ERROR [Log] Not able to click --- Unable to locate element: .//*[@id='account_logout']/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-PC', ip: '192.168.43.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\user\AppData\Local\Temp\rust_mozprofile.auISaxoTvIJG, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.2, platformVersion=6.1, moz:processID=707560.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 1a79b690-6a02-4429-8ac8-340a00a9d7b2
+*** Element info: {Using=xpath, value=.//*[@id='account_logout']/a} 
+2017-10-05 08:35:52,517 INFO  [Log] Closing the browser 
+2017-10-05 08:35:57,052 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-05 08:35:57,053 INFO  [Log] X 
+2017-10-05 08:35:57,054 INFO  [Log] X 
+2017-10-05 08:35:57,054 INFO  [Log] X 
+2017-10-05 08:35:57,054 INFO  [Log] X 
+2017-10-05 08:41:17,629 INFO  [Log] **************************************************************************************** 
+2017-10-05 08:41:17,631 INFO  [Log] **************************************************************************************** 
+2017-10-05 08:41:17,631 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-05 08:41:17,631 INFO  [Log] **************************************************************************************** 
+2017-10-05 08:41:17,631 INFO  [Log] **************************************************************************************** 
+2017-10-05 08:41:17,635 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-10-05 08:41:17,637 INFO  [Log] Opening Browser 
+2017-10-05 08:41:46,075 INFO  [Log] Mozilla browser started 
+2017-10-05 08:41:47,037 INFO  [Log] Navigating to URL 
+2017-10-05 08:42:01,705 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2017-10-05 08:42:03,405 INFO  [Log] Entering the text in txtbx_UserName 
+2017-10-05 08:42:06,708 INFO  [Log] Entering the text in txtbx_Password 
+2017-10-05 08:42:08,511 INFO  [Log] Clicking on Webelement btn_LogIn 
+2017-10-05 08:42:09,653 INFO  [Log] Wait for 50 seconds 
+2017-10-05 08:42:14,920 INFO  [Log] Clicking on Webelement btn_LogOut 
+2017-10-05 08:42:25,778 ERROR [Log] Not able to click --- Unable to locate element: .//*[@id='account_logout']/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-PC', ip: '192.168.43.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\user\AppData\Local\Temp\rust_mozprofile.njvtbSxL1fQ3, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.2, platformVersion=6.1, moz:processID=626296.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: b7cabe3b-4637-40a0-9c14-411534865a80
+*** Element info: {Using=xpath, value=.//*[@id='account_logout']/a} 
+2017-10-05 08:42:25,902 INFO  [Log] Closing the browser 
+2017-10-05 08:42:28,531 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-05 08:42:28,532 INFO  [Log] X 
+2017-10-05 08:42:28,532 INFO  [Log] X 
+2017-10-05 08:42:28,532 INFO  [Log] X 
+2017-10-05 08:42:28,532 INFO  [Log] X 
+2017-10-05 08:43:35,763 INFO  [Log] **************************************************************************************** 
+2017-10-05 08:43:35,764 INFO  [Log] **************************************************************************************** 
+2017-10-05 08:43:35,764 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-05 08:43:35,764 INFO  [Log] **************************************************************************************** 
+2017-10-05 08:43:35,764 INFO  [Log] **************************************************************************************** 
+2017-10-05 08:43:35,767 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-10-05 08:43:35,769 INFO  [Log] Opening Browser 
+2017-10-05 08:44:01,104 INFO  [Log] Mozilla browser started 
+2017-10-05 08:44:01,974 INFO  [Log] Navigating to URL 
+2017-10-05 08:44:15,043 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2017-10-05 08:44:16,029 INFO  [Log] Entering the text in txtbx_UserName 
+2017-10-05 08:44:19,722 INFO  [Log] Entering the text in txtbx_Password 
+2017-10-05 08:44:21,306 INFO  [Log] Clicking on Webelement btn_LogIn 
+2017-10-05 08:44:22,210 INFO  [Log] Wait for 50 seconds 
+2017-10-05 08:44:27,495 INFO  [Log] Clicking on Webelement btn_LogOut 
+2017-10-05 08:44:42,401 ERROR [Log] Not able to click --- Unable to locate element: .//*[@id='account_logout']/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-PC', ip: '192.168.43.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\user\AppData\Local\Temp\rust_mozprofile.Op59hY0ypdBi, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.2, platformVersion=6.1, moz:processID=710508.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 6e497285-c18f-494e-aec1-0ea39d859e7f
+*** Element info: {Using=xpath, value=.//*[@id='account_logout']/a} 
+2017-10-05 08:44:42,903 INFO  [Log] Closing the browser 
+2017-10-05 08:44:49,523 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-05 08:44:49,523 INFO  [Log] X 
+2017-10-05 08:44:49,523 INFO  [Log] X 
+2017-10-05 08:44:49,523 INFO  [Log] X 
+2017-10-05 08:44:49,523 INFO  [Log] X 
+2017-10-05 08:46:00,732 INFO  [Log] **************************************************************************************** 
+2017-10-05 08:46:00,734 INFO  [Log] **************************************************************************************** 
+2017-10-05 08:46:00,734 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-05 08:46:00,734 INFO  [Log] **************************************************************************************** 
+2017-10-05 08:46:00,734 INFO  [Log] **************************************************************************************** 
+2017-10-05 08:46:00,738 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-10-05 08:46:00,741 INFO  [Log] Opening Browser 
+2017-10-05 08:46:14,207 INFO  [Log] Mozilla browser started 
+2017-10-05 08:46:14,857 INFO  [Log] Navigating to URL 
+2017-10-05 08:46:22,434 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2017-10-05 08:46:23,224 INFO  [Log] Entering the text in txtbx_UserName 
+2017-10-05 08:46:25,617 INFO  [Log] Entering the text in txtbx_Password 
+2017-10-05 08:46:26,778 INFO  [Log] Clicking on Webelement btn_LogIn 
+2017-10-05 08:46:27,224 INFO  [Log] Wait for 50 seconds 
+2017-10-05 08:46:32,465 INFO  [Log] Clicking on Webelement btn_LogOut 
+2017-10-05 08:46:42,526 ERROR [Log] Not able to click --- Unable to locate element: .//*[@id='account_logout']/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-PC', ip: '192.168.43.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\user\AppData\Local\Temp\rust_mozprofile.DUHUbuLI5mYL, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.2, platformVersion=6.1, moz:processID=710504.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 8132a12b-e2c4-460e-8efa-8f03ad650bf2
+*** Element info: {Using=xpath, value=.//*[@id='account_logout']/a} 
+2017-10-05 08:46:42,656 INFO  [Log] Closing the browser 
+2017-10-05 08:46:43,718 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-05 08:46:43,718 INFO  [Log] X 
+2017-10-05 08:46:43,719 INFO  [Log] X 
+2017-10-05 08:46:43,719 INFO  [Log] X 
+2017-10-05 08:46:43,719 INFO  [Log] X 
+2017-10-05 08:55:16,691 INFO  [Log] **************************************************************************************** 
+2017-10-05 08:55:16,693 INFO  [Log] **************************************************************************************** 
+2017-10-05 08:55:16,693 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-05 08:55:16,693 INFO  [Log] **************************************************************************************** 
+2017-10-05 08:55:16,693 INFO  [Log] **************************************************************************************** 
+2017-10-05 08:55:16,696 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-10-05 08:55:16,699 INFO  [Log] Opening Browser 
+2017-10-05 08:55:35,618 INFO  [Log] Mozilla browser started 
+2017-10-05 08:55:36,450 INFO  [Log] Navigating to URL 
+2017-10-05 08:55:49,252 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2017-10-05 08:55:50,050 INFO  [Log] Entering the text in txtbx_UserName 
+2017-10-05 08:55:52,753 INFO  [Log] Entering the text in txtbx_Password 
+2017-10-05 08:55:55,093 INFO  [Log] Clicking on Webelement btn_LogIn 
+2017-10-05 08:55:55,873 INFO  [Log] Wait for 50 seconds 
+2017-10-05 08:56:01,132 INFO  [Log] Clicking on Webelement btn_LogOut 
+2017-10-05 08:56:11,412 ERROR [Log] Not able to click --- Unable to locate element: .//*[@id='account_logout']/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-PC', ip: '192.168.43.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\user\AppData\Local\Temp\rust_mozprofile.iMfvhTvpsle8, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.2, platformVersion=6.1, moz:processID=713748.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 95a81ad7-0095-40a7-bb96-a76c4f93f9fa
+*** Element info: {Using=xpath, value=.//*[@id='account_logout']/a} 
+2017-10-05 08:56:11,782 INFO  [Log] Closing the browser 
+2017-10-05 08:56:14,131 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-05 08:56:14,131 INFO  [Log] X 
+2017-10-05 08:56:14,132 INFO  [Log] X 
+2017-10-05 08:56:14,132 INFO  [Log] X 
+2017-10-05 08:56:14,132 INFO  [Log] X 
+2017-10-05 09:17:11,328 INFO  [Log] **************************************************************************************** 
+2017-10-05 09:17:11,348 INFO  [Log] **************************************************************************************** 
+2017-10-05 09:17:11,348 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-05 09:17:11,348 INFO  [Log] **************************************************************************************** 
+2017-10-05 09:17:11,349 INFO  [Log] **************************************************************************************** 
+2017-10-05 09:17:11,354 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-10-05 09:17:11,358 INFO  [Log] Opening Browser 
+2017-10-05 09:17:47,701 INFO  [Log] Mozilla browser started 
+2017-10-05 09:17:48,843 INFO  [Log] Navigating to URL 
+2017-10-05 09:18:11,348 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2017-10-05 09:18:14,384 INFO  [Log] Entering the text in txtbx_UserName 
+2017-10-05 09:18:17,955 INFO  [Log] Entering the text in txtbx_Password 
+2017-10-05 09:18:19,972 INFO  [Log] Clicking on Webelement btn_LogIn 
+2017-10-05 09:18:21,510 INFO  [Log] Wait for 50 seconds 
+2017-10-05 09:18:26,714 INFO  [Log] Clicking on Webelement btn_LogOut 
+2017-10-05 09:18:36,990 ERROR [Log] Not able to click --- Unable to locate element: .//*[@id='account_logout']/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-PC', ip: '192.168.43.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\user\AppData\Local\Temp\rust_mozprofile.eGxvq1T6Ztmh, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.2, platformVersion=6.1, moz:processID=720476.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: eb5a9170-ba08-4b92-b310-2e69989f3cc3
+*** Element info: {Using=xpath, value=.//*[@id='account_logout']/a} 
+2017-10-05 09:18:37,176 INFO  [Log] Closing the browser 
+2017-10-05 09:18:40,227 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-05 09:18:40,227 INFO  [Log] X 
+2017-10-05 09:18:40,227 INFO  [Log] X 
+2017-10-05 09:18:40,227 INFO  [Log] X 
+2017-10-05 09:18:40,227 INFO  [Log] X 
+2017-10-05 09:22:12,798 INFO  [Log] **************************************************************************************** 
+2017-10-05 09:22:12,799 INFO  [Log] **************************************************************************************** 
+2017-10-05 09:22:12,799 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-05 09:22:12,799 INFO  [Log] **************************************************************************************** 
+2017-10-05 09:22:12,799 INFO  [Log] **************************************************************************************** 
+2017-10-05 09:22:12,802 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-10-05 09:22:12,805 INFO  [Log] Opening Browser 
+2017-10-05 09:22:32,818 INFO  [Log] Mozilla browser started 
+2017-10-05 09:22:33,764 INFO  [Log] Navigating to URL 
+2017-10-05 09:22:47,595 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2017-10-05 09:22:48,536 INFO  [Log] Entering the text in txtbx_UserName 
+2017-10-05 09:22:51,855 INFO  [Log] Entering the text in txtbx_Password 
+2017-10-05 09:22:52,817 INFO  [Log] Clicking on Webelement btn_LogIn 
+2017-10-05 09:22:53,585 INFO  [Log] Wait for 50 seconds 
+2017-10-05 09:22:59,100 INFO  [Log] Clicking on Webelement btn_LogOut 
+2017-10-05 09:23:09,503 ERROR [Log] Not able to click --- Unable to locate element: .//*[@id='account_logout']/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-PC', ip: '192.168.43.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\user\AppData\Local\Temp\rust_mozprofile.40UgzGovyoGe, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.2, platformVersion=6.1, moz:processID=722736.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: c378c17a-ef15-4b05-96ff-348fe5566988
+*** Element info: {Using=xpath, value=.//*[@id='account_logout']/a} 
+2017-10-05 09:23:09,727 INFO  [Log] Closing the browser 
+2017-10-05 09:23:12,607 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-05 09:23:12,607 INFO  [Log] X 
+2017-10-05 09:23:12,607 INFO  [Log] X 
+2017-10-05 09:23:12,607 INFO  [Log] X 
+2017-10-05 09:23:12,607 INFO  [Log] X 
+2017-10-05 09:25:04,291 INFO  [Log] **************************************************************************************** 
+2017-10-05 09:25:04,292 INFO  [Log] **************************************************************************************** 
+2017-10-05 09:25:04,292 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-05 09:25:04,292 INFO  [Log] **************************************************************************************** 
+2017-10-05 09:25:04,292 INFO  [Log] **************************************************************************************** 
+2017-10-05 09:25:04,294 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-10-05 09:25:04,296 INFO  [Log] Opening Browser 
+2017-10-05 09:25:26,312 INFO  [Log] Mozilla browser started 
+2017-10-05 09:25:28,212 INFO  [Log] Navigating to URL 
+2017-10-05 09:25:39,992 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2017-10-05 09:25:40,823 INFO  [Log] Entering the text in txtbx_UserName 
+2017-10-05 09:25:43,371 INFO  [Log] Entering the text in txtbx_Password 
+2017-10-05 09:25:44,432 INFO  [Log] Clicking on Webelement btn_LogIn 
+2017-10-05 09:25:45,271 INFO  [Log] Wait for 50 seconds 
+2017-10-05 09:25:50,376 INFO  [Log] Clicking on Webelement btn_LogOut 
+2017-10-05 09:26:00,593 ERROR [Log] Not able to click --- Unable to locate element: .//*[@id='account_logout']/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-PC', ip: '192.168.43.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\user\AppData\Local\Temp\rust_mozprofile.l0dhpfOwSsGo, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.2, platformVersion=6.1, moz:processID=723228.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 20cfd881-1292-4f21-872f-7c89596bbcaf
+*** Element info: {Using=xpath, value=.//*[@id='account_logout']/a} 
+2017-10-05 09:26:00,856 INFO  [Log] Closing the browser 
+2017-10-05 09:26:02,923 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-10-05 09:26:02,924 INFO  [Log] X 
+2017-10-05 09:26:02,924 INFO  [Log] X 
+2017-10-05 09:26:02,924 INFO  [Log] X 
+2017-10-05 09:26:02,924 INFO  [Log] X 
+2018-01-10 09:53:45,429 INFO  [Log] **************************************************************************************** 
+2018-01-10 09:53:45,443 INFO  [Log] **************************************************************************************** 
+2018-01-10 09:53:45,443 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-01-10 09:53:45,443 INFO  [Log] **************************************************************************************** 
+2018-01-10 09:53:45,443 INFO  [Log] **************************************************************************************** 
+2018-01-10 09:53:45,447 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-01-10 09:53:45,449 INFO  [Log] Opening Browser 
+2018-01-10 09:54:01,196 INFO  [Log] Mozilla browser started 
+2018-01-10 09:54:02,608 INFO  [Log] Navigating to URL 
+2018-01-10 09:54:11,088 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2018-01-10 09:54:11,670 INFO  [Log] Entering the text in txtbx_UserName 
+2018-01-10 09:54:14,001 INFO  [Log] Entering the text in txtbx_Password 
+2018-01-10 09:54:14,997 INFO  [Log] Clicking on Webelement btn_LogIn 
+2018-01-10 09:54:15,494 INFO  [Log] Wait for 50 seconds 
+2018-01-10 09:54:20,645 INFO  [Log] Clicking on Webelement btn_LogOut 
+2018-01-10 09:54:30,798 ERROR [Log] Not able to click --- Unable to locate element: .//*[@id='account_logout']/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-PC', ip: '192.168.43.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\user\AppData\Local\Temp\rust_mozprofile.yTPRMhx6iUIc, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.2, platformVersion=6.1, moz:processID=321692.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 947095f0-6958-46a4-86dd-3b38a2b09184
+*** Element info: {Using=xpath, value=.//*[@id='account_logout']/a} 
+2018-01-10 09:54:30,958 INFO  [Log] Closing the browser 
+2018-01-10 09:54:32,885 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-01-10 09:54:32,885 INFO  [Log] X 
+2018-01-10 09:54:32,885 INFO  [Log] X 
+2018-01-10 09:54:32,885 INFO  [Log] X 
+2018-01-10 09:54:32,885 INFO  [Log] X 
+2018-01-10 09:59:12,458 INFO  [Log] **************************************************************************************** 
+2018-01-10 09:59:12,459 INFO  [Log] **************************************************************************************** 
+2018-01-10 09:59:12,459 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-01-10 09:59:12,459 INFO  [Log] **************************************************************************************** 
+2018-01-10 09:59:12,459 INFO  [Log] **************************************************************************************** 
+2018-01-10 09:59:12,462 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-01-10 09:59:12,464 INFO  [Log] Opening Browser 
+2018-01-10 09:59:22,370 INFO  [Log] Mozilla browser started 
+2018-01-10 09:59:23,125 INFO  [Log] Navigating to URL 
+2018-01-10 09:59:32,183 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2018-01-10 09:59:32,651 INFO  [Log] Entering the text in txtbx_UserName 
+2018-01-10 09:59:37,202 INFO  [Log] Entering the text in txtbx_Password 
+2018-01-10 09:59:38,022 INFO  [Log] Clicking on Webelement btn_LogIn 
+2018-01-10 09:59:38,725 INFO  [Log] Wait for 50 seconds 
+2018-01-10 09:59:44,029 INFO  [Log] Clicking on Webelement btn_LogOut 
+2018-01-10 09:59:54,153 ERROR [Log] Not able to click --- Unable to locate element: .//*[@id='account_logout']/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-PC', ip: '192.168.43.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\user\AppData\Local\Temp\rust_mozprofile.HsVtlMLa9Gz0, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.2, platformVersion=6.1, moz:processID=324436.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 48521331-42f1-40de-88c9-e155e97184b0
+*** Element info: {Using=xpath, value=.//*[@id='account_logout']/a} 
+2018-01-10 09:59:54,361 INFO  [Log] Closing the browser 
+2018-01-10 09:59:55,527 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-01-10 09:59:55,527 INFO  [Log] X 
+2018-01-10 09:59:55,527 INFO  [Log] X 
+2018-01-10 09:59:55,527 INFO  [Log] X 
+2018-01-10 09:59:55,527 INFO  [Log] X 
+2018-01-19 07:45:39,985 INFO  [Log] **************************************************************************************** 
+2018-01-19 07:45:40,000 INFO  [Log] **************************************************************************************** 
+2018-01-19 07:45:40,000 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-01-19 07:45:40,001 INFO  [Log] **************************************************************************************** 
+2018-01-19 07:45:40,001 INFO  [Log] **************************************************************************************** 
+2018-01-19 07:45:40,005 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-01-19 07:45:40,008 INFO  [Log] Opening Browser 
+2018-01-19 07:46:09,661 INFO  [Log] Mozilla browser started 
+2018-01-19 07:46:10,331 INFO  [Log] Navigating to URL 
+2018-01-19 07:46:26,619 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2018-01-19 07:46:27,482 INFO  [Log] Entering the text in txtbx_UserName 
+2018-01-19 07:46:29,893 INFO  [Log] Entering the text in txtbx_Password 
+2018-01-19 07:46:31,024 INFO  [Log] Clicking on Webelement btn_LogIn 
+2018-01-19 07:46:31,668 INFO  [Log] Wait for 50 seconds 
+2018-01-19 07:46:36,797 INFO  [Log] Clicking on Webelement btn_LogOut 
+2018-01-19 07:46:47,012 ERROR [Log] Not able to click --- Unable to locate element: .//*[@id='account_logout']/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-PC', ip: '192.168.43.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\user\AppData\Local\Temp\rust_mozprofile.KXoFQICRCRbo, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.2, platformVersion=6.1, moz:processID=509076.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: e91c8cef-6906-464d-b0bf-68585248f935
+*** Element info: {Using=xpath, value=.//*[@id='account_logout']/a} 
+2018-01-19 07:46:47,290 INFO  [Log] Closing the browser 
+2018-01-19 07:46:49,971 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-01-19 07:46:49,971 INFO  [Log] X 
+2018-01-19 07:46:49,971 INFO  [Log] X 
+2018-01-19 07:46:49,971 INFO  [Log] X 
+2018-01-19 07:46:49,971 INFO  [Log] X 
+2018-03-18 15:37:44,916 INFO  [Log] **************************************************************************************** 
+2018-03-18 15:37:44,928 INFO  [Log] **************************************************************************************** 
+2018-03-18 15:37:44,928 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-18 15:37:44,928 INFO  [Log] **************************************************************************************** 
+2018-03-18 15:37:44,928 INFO  [Log] **************************************************************************************** 
+2018-03-18 15:37:44,931 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-03-18 15:37:44,934 INFO  [Log] Opening Browser 
+2018-03-18 15:38:06,146 INFO  [Log] Mozilla browser started 
+2018-03-18 15:38:06,883 INFO  [Log] Navigating to URL 
+2018-03-18 15:38:07,578 INFO  [Log] Not able to navigate --- Reached error page: about:neterror?e=dnsNotFound&u=http%3A//www.store.demoqa.com/&c=UTF-8&f=regular&d=Firefox%20can%E2%80%99t%20find%20the%20server%20at%20www.store.demoqa.com.
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-PC', ip: '127.0.0.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\user\AppData\Local\Temp\rust_mozprofile.zGmWBqJliEhU, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.2, platformVersion=6.1, moz:processID=281720.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 5b18823a-8c58-4e25-b6ee-2e3230fb20cf 
+2018-03-18 15:38:07,853 INFO  [Log] Closing the browser 
+2018-03-18 15:38:09,706 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-18 15:38:09,706 INFO  [Log] X 
+2018-03-18 15:38:09,706 INFO  [Log] X 
+2018-03-18 15:38:09,706 INFO  [Log] X 
+2018-03-18 15:38:09,706 INFO  [Log] X 
+2018-03-20 14:13:44,551 INFO  [Log] **************************************************************************************** 
+2018-03-20 14:13:44,566 INFO  [Log] **************************************************************************************** 
+2018-03-20 14:13:44,567 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 14:13:44,567 INFO  [Log] **************************************************************************************** 
+2018-03-20 14:13:44,567 INFO  [Log] **************************************************************************************** 
+2018-03-20 14:13:44,574 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-03-20 14:13:44,576 INFO  [Log] Opening Browser 
+2018-03-20 14:14:30,284 INFO  [Log] Mozilla browser started 
+2018-03-20 14:14:31,351 INFO  [Log] Navigating to URL 
+2018-03-20 14:15:00,332 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2018-03-20 14:15:02,109 INFO  [Log] Entering the text in txtbx_UserName 
+2018-03-20 14:15:07,028 INFO  [Log] Entering the text in txtbx_Password 
+2018-03-20 14:15:09,674 INFO  [Log] Clicking on Webelement btn_LogIn 
+2018-03-20 14:15:11,006 INFO  [Log] Wait for 50 seconds 
+2018-03-20 14:15:16,296 INFO  [Log] Clicking on Webelement btn_LogOut 
+2018-03-20 14:15:26,563 ERROR [Log] Not able to click --- Unable to locate element: .//*[@id='account_logout']/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-PC', ip: '192.168.43.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\user\AppData\Local\Temp\rust_mozprofile.uRGI3J9EJ0V1, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.2, platformVersion=6.1, moz:processID=448916.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: d0e86aa2-a808-41f5-bc99-e70586030038
+*** Element info: {Using=xpath, value=.//*[@id='account_logout']/a} 
+2018-03-20 14:15:26,637 INFO  [Log] Closing the browser 
+2018-03-20 14:15:30,170 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 14:15:30,171 INFO  [Log] X 
+2018-03-20 14:15:30,171 INFO  [Log] X 
+2018-03-20 14:15:30,171 INFO  [Log] X 
+2018-03-20 14:15:30,171 INFO  [Log] X 
+2018-03-20 14:17:31,263 INFO  [Log] **************************************************************************************** 
+2018-03-20 14:17:31,265 INFO  [Log] **************************************************************************************** 
+2018-03-20 14:17:31,265 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 14:17:31,265 INFO  [Log] **************************************************************************************** 
+2018-03-20 14:17:31,265 INFO  [Log] **************************************************************************************** 
+2018-03-20 14:17:31,269 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-03-20 14:17:31,272 INFO  [Log] Opening Browser 
+2018-03-20 14:17:41,900 INFO  [Log] Mozilla browser started 
+2018-03-20 14:17:42,325 INFO  [Log] Navigating to URL 
+2018-03-20 14:18:08,916 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2018-03-20 14:18:09,926 INFO  [Log] Entering the text in txtbx_UserName 
+2018-03-20 14:18:14,096 INFO  [Log] Entering the text in txtbx_Password 
+2018-03-20 14:18:20,262 INFO  [Log] Clicking on Webelement btn_LogIn 
+2018-03-20 14:18:21,010 INFO  [Log] Wait for 50 seconds 
+2018-03-20 14:18:26,266 INFO  [Log] Clicking on Webelement btn_LogOut 
+2018-03-20 14:18:36,429 ERROR [Log] Not able to click --- Unable to locate element: .//*[@id='account_logout']/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'USER-PC', ip: '192.168.43.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\user\AppData\Local\Temp\rust_mozprofile.1wtsHMXMrnzh, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.2, platformVersion=6.1, moz:processID=447312.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 03ce1613-5f99-44dc-a92b-7eec5c2c077c
+*** Element info: {Using=xpath, value=.//*[@id='account_logout']/a} 
+2018-03-20 14:18:36,654 INFO  [Log] Closing the browser 
+2018-03-20 14:18:38,167 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 14:18:38,168 INFO  [Log] X 
+2018-03-20 14:18:38,168 INFO  [Log] X 
+2018-03-20 14:18:38,168 INFO  [Log] X 
+2018-03-20 14:18:38,168 INFO  [Log] X 
+2018-04-06 21:32:32,424 INFO  [Log] **************************************************************************************** 
+2018-04-06 21:32:32,442 INFO  [Log] **************************************************************************************** 
+2018-04-06 21:32:32,443 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-06 21:32:32,443 INFO  [Log] **************************************************************************************** 
+2018-04-06 21:32:32,443 INFO  [Log] **************************************************************************************** 
+2018-04-06 21:32:32,449 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-04-06 21:32:32,455 INFO  [Log] Opening Browser 
+2018-04-06 21:32:57,043 INFO  [Log] Mozilla browser started 
+2018-04-06 21:32:57,653 INFO  [Log] Navigating to URL 
+2018-04-06 21:35:30,738 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2018-04-06 21:35:31,981 INFO  [Log] Entering the text in txtbx_UserName 
+2018-04-06 21:35:35,413 INFO  [Log] Entering the text in txtbx_Password 
+2018-04-06 21:35:36,433 INFO  [Log] Clicking on Webelement btn_LogIn 
+2018-04-06 21:35:37,182 INFO  [Log] Wait for 50 seconds 
+2018-04-06 21:35:42,452 INFO  [Log] Clicking on Webelement btn_LogOut 
+2018-04-06 21:35:52,969 ERROR [Log] Not able to click --- Unable to locate element: .//*[@id='account_logout']/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'USER-PC', ip: '192.168.43.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 53.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:processID: 287988, moz:profile: C:\Users\user\AppData\Local..., pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 6.1, rotatable: false, specificationLevel: 0, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 155704f3-b1ed-44c4-86d8-07127fcd1a4b
+*** Element info: {Using=xpath, value=.//*[@id='account_logout']/a} 
+2018-04-06 21:35:53,243 INFO  [Log] Closing the browser 
+2018-04-06 21:35:54,276 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-06 21:35:54,278 INFO  [Log] X 
+2018-04-06 21:35:54,278 INFO  [Log] X 
+2018-04-06 21:35:54,278 INFO  [Log] X 
+2018-04-06 21:35:54,278 INFO  [Log] X 
+2018-04-06 21:49:26,682 INFO  [Log] **************************************************************************************** 
+2018-04-06 21:49:26,683 INFO  [Log] **************************************************************************************** 
+2018-04-06 21:49:26,684 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-06 21:49:26,684 INFO  [Log] **************************************************************************************** 
+2018-04-06 21:49:26,684 INFO  [Log] **************************************************************************************** 
+2018-04-06 21:49:26,686 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-04-06 21:49:26,689 INFO  [Log] Opening Browser 
+2018-04-06 21:49:40,726 INFO  [Log] Mozilla browser started 
+2018-04-06 21:49:41,405 INFO  [Log] Navigating to URL 
+2018-04-06 21:49:53,627 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2018-04-06 21:49:54,296 INFO  [Log] Entering the text in txtbx_UserName 
+2018-04-06 21:49:59,398 INFO  [Log] Entering the text in txtbx_Password 
+2018-04-06 21:50:00,229 INFO  [Log] Clicking on Webelement btn_LogIn 
+2018-04-06 21:50:00,863 INFO  [Log] Wait for 50 seconds 
+2018-04-06 21:50:06,043 INFO  [Log] Clicking on Webelement btn_LogOut 
+2018-04-06 21:50:17,191 ERROR [Log] Not able to click --- Unable to locate element: .//*[@id='account_logout']/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'USER-PC', ip: '192.168.43.30', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 53.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:processID: 293252, moz:profile: C:\Users\user\AppData\Local..., pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 6.1, rotatable: false, specificationLevel: 0, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: bde4c0e4-1ea1-4797-9877-74e8ab5b98f1
+*** Element info: {Using=xpath, value=.//*[@id='account_logout']/a} 
+2018-04-06 21:50:17,348 INFO  [Log] Closing the browser 
+2018-04-06 21:50:18,208 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-06 21:50:18,208 INFO  [Log] X 
+2018-04-06 21:50:18,208 INFO  [Log] X 
+2018-04-06 21:50:18,209 INFO  [Log] X 
+2018-04-06 21:50:18,209 INFO  [Log] X 
+2018-04-06 21:57:36,889 INFO  [Log] **************************************************************************************** 
+2018-04-06 21:57:36,890 INFO  [Log] **************************************************************************************** 
+2018-04-06 21:57:36,890 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-06 21:57:36,890 INFO  [Log] **************************************************************************************** 
+2018-04-06 21:57:36,890 INFO  [Log] **************************************************************************************** 
+2018-04-06 21:57:36,894 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-04-06 21:57:36,897 INFO  [Log] Opening Browser 
+2018-04-06 21:57:48,562 INFO  [Log] Chrome browser started 
+2018-04-06 21:57:51,154 INFO  [Log] Navigating to URL 
+2018-04-06 21:58:28,942 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2018-04-06 21:58:38,237 INFO  [Log] Entering the text in txtbx_UserName 
+2018-04-06 21:58:38,589 INFO  [Log] Entering the text in txtbx_Password 
+2018-04-06 21:58:39,026 INFO  [Log] Clicking on Webelement btn_LogIn 
+2018-04-06 21:58:39,330 INFO  [Log] Wait for 50 seconds 
+2018-04-06 21:58:44,668 INFO  [Log] Clicking on Webelement btn_LogOut 
+2018-04-06 21:58:51,535 INFO  [Log] Closing the browser 
+2018-04-06 21:58:53,306 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-06 21:58:53,306 INFO  [Log] X 
+2018-04-06 21:58:53,307 INFO  [Log] X 
+2018-04-06 21:58:53,307 INFO  [Log] X 
+2018-04-06 21:58:53,307 INFO  [Log] X 
